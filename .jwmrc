@@ -59,13 +59,15 @@
       <Program icon="folder-documents" label="Documents">/usr/bin/pcmanfm -d ~/Documents</Program>
       <Program icon="folder-download" label="Downloads">/usr/bin/pcmanfm -d ~/Downloads</Program>
    <Separator />
+      <Program icon="virtualbox" label="VirtualBox">/usr/bin/virtualbox</Program>
+   <Separator />
    
+      <Program icon="web-browser" label="Browser">/usr/bin/firefox-esr</Program>
       <Program icon="calc" label="Calculator">/usr/bin/galculator</Program>
       <Program icon="file-manager" label="File Manager">/usr/bin/pcmanfm -d</Program>
       <Program icon="text-editor" label="Notepad">/usr/bin/l3afpad</Program>
       <Program icon="utilities-system-monitor" label="Task Manager">/usr/bin/lxtask</Program>
-      <Program icon="terminal" label="Terminal">x-terminal-emulator</Program>
-      <Program icon="firefox-esr" label="Firefox">/usr/bin/firefox-esr</Program>
+      <Program icon="terminal" label="Terminal">/usr/bin/lxterminal</Program>
 
       <Separator/>
       <Program label="Run..." icon="system-run">/usr/bin/gmrun</Program>
@@ -102,7 +104,7 @@
 
     <!-- Visual Styles -->
     <WindowStyle decorations="motif">
-        <Font>Sans-12:bold</Font>
+        <Font>Laksaman-12:bold</Font>
         <Width>4</Width>
         <Corner>0</Corner>
         <Foreground>#FFFFFF</Foreground>
@@ -115,13 +117,13 @@
         </Active>
     </WindowStyle>
     <TrayStyle decorations="motif">
-        <Font>Sans-12</Font>
+        <Font>Laksaman-12</Font>
         <Background>#333333</Background>
         <Foreground>#FFFFFF</Foreground>
         <Opacity>0.75</Opacity>
     </TrayStyle>
     <TaskListStyle list="all" group="true">
-      <Font>Sans-12</Font>
+      <Font>Laksaman-12</Font>
       <Active>
         <Foreground>#FFFFFF</Foreground>
         <Background>#555555</Background>
@@ -139,7 +141,7 @@
         </Active>
     </PagerStyle>
     <MenuStyle decorations="motif">
-        <Font>Sans-12</Font>
+        <Font>Laksaman-12</Font>
         <Foreground>#FFFFFF</Foreground>
         <Background>#333333</Background>
         <Active>
@@ -149,7 +151,7 @@
         <Opacity>0.85</Opacity>
     </MenuStyle>
     <PopupStyle>
-        <Font>Sans-12</Font>
+        <Font>Laksaman-12</Font>
         <Foreground>#000000</Foreground>
         <Background>#999999</Background>
     </PopupStyle>
