@@ -63,7 +63,6 @@
    <Separator />
    
       <Program icon="web-browser" label="Browser">/usr/bin/firefox-esr</Program>
-      <Program icon="calc" label="Calculator">/usr/bin/galculator</Program>
       <Program icon="file-manager" label="File Manager">/usr/bin/pcmanfm -d</Program>
       <Program icon="text-editor" label="Notepad">/usr/bin/l3afpad</Program>
       <Program icon="utilities-system-monitor" label="Task Manager">/usr/bin/lxtask</Program>
