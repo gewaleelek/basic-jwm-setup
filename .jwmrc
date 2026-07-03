@@ -59,8 +59,6 @@
       <Program icon="folder-documents" label="Documents">/usr/bin/pcmanfm -d ~/Documents</Program>
       <Program icon="folder-download" label="Downloads">/usr/bin/pcmanfm -d ~/Downloads</Program>
    <Separator />
-      <Program icon="virtualbox" label="VirtualBox">/usr/bin/virtualbox</Program>
-   <Separator />
    
       <Program icon="web-browser" label="Browser">/usr/bin/firefox-esr</Program>
       <Program icon="file-manager" label="File Manager">/usr/bin/pcmanfm -d</Program>
